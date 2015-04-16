@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif&subset=cyrillic-ext,latin);
+
+html{
+    height: 0;
+    margin: 0;
+    padding:0;
+}
+.row{
+    background-color: crimson;
+}
+.page-header{
+    background-color: cadetblue;
+    margin: 10px;
+    background-color:cadetblue;
+    color: seashell;
+    text-align: center;
+}
+.page-header>h1{
+    /*font-family: 'Montserrat', sans-serif;*/
+    /*font-family: 'Droid Serif', serif;*/
+    font-family: 'Lobster', cursive;    
+    margin: auto;
+    padding-top: 10px;
+}
+.page-header>h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1em;
+}
+h3>hr{
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+}
+.form-control{
+    font-family: 'PT Serif', serif;
+    font-size: 1.3em;
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+}
+.checkbox{
+    padding-right: 100px;
+       float: right;
+}
+#mainLink{
+    position:relative;
+    bottom: 0;
+    right: 0;
+    background-color: #faf5ea;
+    margin-top:10px;
+    text-align: center;
+}
+#mainLink>a{
+    /*position:absolute;*/
+}
