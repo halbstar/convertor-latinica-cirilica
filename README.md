@@ -4,5 +4,6 @@ This is one of them, simple converter (convertor sounded more distinguish) for C
 
 * no need to choose alphabet (auto-recognition),
 * you can keep Latin text from converting if it’s inside Cyrillic text.
+
 Tool is not well tested, so I’m sending it to beta testing, which means YOU!
 http://halbstar.url.ph/convertor-latinica-cirilica/
